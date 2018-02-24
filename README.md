@@ -4,7 +4,7 @@
 
 #### 使用说明
 
-1. `git clone https://github.com/huangketong/zhuan/tree/master` 
+1. `git clone https://github.com/huangketong/zhuan.git` 
 2. `npm install`
 3. `npm run dev`
 4. 在浏览器打开`http://localhost:9000/`

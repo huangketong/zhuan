@@ -10,4 +10,4 @@
 4. 在浏览器打开`http://localhost:9000/`
 
 ##### node和npm版本
-<img src='https://github.com/huangketong/zhuan/blob/master/src/assets/version.png' />
+<img src='https://github.com/huangketong/zhuan/blob/master/src/assets/version.png' width="405"/>

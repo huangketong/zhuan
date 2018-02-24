@@ -8,3 +8,6 @@
 2. `npm install`
 3. `npm run dev`
 4. 在浏览器打开`http://localhost:9000/`
+
+##### node版本
+<img src='https://github.com/huangketong/zhuan/blob/master/src/assets/version.png' />

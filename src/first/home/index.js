@@ -4,63 +4,9 @@ import {
 } from '../../utils';
 import Title from '../../component/title';
 import styles from './index.less';
-
-const datas = [
-    {
-        name: '月头条',
-        size: '5MB',
-        visit: '788',
-        imgSrc: "test.png"
-    },
-    {
-        name: '我的APP',
-        size: '8MB',
-        visit: '688',
-        imgSrc: 'test.png'
-    },
-    {
-        name: '淘宝',
-        size: '10MB',
-        visit: '1088',
-        imgSrc: 'test.png'
-    },
-    {
-        name: '月头条',
-        size: '5MB',
-        visit: '788',
-        imgSrc: "test.png"
-    },
-    {
-        name: '我的APP',
-        size: '8MB',
-        visit: '688',
-        imgSrc: 'test.png'
-    },
-    {
-        name: '淘宝',
-        size: '10MB',
-        visit: '1088',
-        imgSrc: 'test.png'
-    },
-    {
-        name: '月头条',
-        size: '5MB',
-        visit: '788',
-        imgSrc: "test.png"
-    },
-    {
-        name: '我的APP',
-        size: '8MB',
-        visit: '688',
-        imgSrc: 'test.png'
-    },
-    {
-        name: '淘宝',
-        size: '10MB',
-        visit: '1088',
-        imgSrc: 'test.png'
-    }
-];
+import {
+    datas
+} from '../../utils/data';
 
 class Home extends React.Component {
     constructor(props) {

@@ -11,3 +11,5 @@
 
 ##### node和npm版本
 <img src='https://github.com/huangketong/zhuan/blob/master/src/assets/version.png' width="320"/>
+
+![node和npm版本](https://github.com/huangketong/zhuan/blob/master/src/assets/version.png)
